@@ -42,8 +42,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------- Header ----------------
-st.markdown('<div class="header-bar"><h1>☀️ Solar Energy Dashboard</h1></div>', unsafe_allow_html=True)
-st.write("Upload one or more solar datasets (e.g., Benin, Togo, Sierra Leone) to explore and visualize.")
+st.markdown('<div class="header-bar"><h1>Solar Data Discovery</h1></div>', unsafe_allow_html=True)
+
 
 # ---------------- File Upload ----------------
 st.sidebar.header("📤 Upload Data Files")
